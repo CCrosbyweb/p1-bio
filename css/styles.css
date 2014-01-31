@@ -1,17 +1,24 @@
+
+
 body {
 	background: url("../img/black_thread.png");
+	color: white;
 }
-.container {
-	margin-left: auto;
-	margin-right: auto;
-	width: 1000px;
-}
-#headder {
-	background: rgba(204, 28, 28, 0.21);
-	height: 90px;
-	line-height: 90px;
+h1 {
 	text-align: center;
 	font-family: helvetica;
-	color: white;
-	
+}
+
+li {
+	display: inline;
+	text-decoration: none;
+	background: lightblue;
+
+
+
+}
+.celeste {
+	width: 1000px;
+	border: ridge;
+
 }
