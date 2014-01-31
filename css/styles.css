@@ -8,17 +8,56 @@ h1 {
 	text-align: center;
 	font-family: helvetica;
 }
+ul {
+	text-align: center;
+	padding-left: 0px;
+}
 
 li {
 	display: inline;
 	text-decoration: none;
-	background: lightblue;
+	padding: 0 45px;
+	font-family: verdana;
+	font-size: 17px;
+}
+h3 {
+	margin-left: 20px;
+}
+p {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+}
+.content {
+	text-align: center;
+}
 
-
-
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: teal;
 }
 .celeste {
-	width: 1000px;
-	border: ridge;
+	width: 490px;
+	margin: 0 0 0 0;
+	float: right;
+}
+.vcd {
+	background: rgba(173, 216, 230, 0.13);
+}
+.obj {
+ 	background: rgba(173, 216, 230, 0.13);
+}
+.link {
+	background: rgba(173, 216, 230, 0.13);
+}
 
+.head {
+	background: rgba(173, 216, 230, 0.13);
+}
+.add {
+	background: rgba(173, 216, 230, 0.13);
+	float: right;
 }
