@@ -1,16 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Spinnaker);
-body {
- 	background: white;
 
- }
+
+
 h1 {
 	font-family: 'Spinnaker';
 	font-weight: 400;
-	font-style: italic;
+	
 	text-align: center;
 	font-size: 55px;
 	
-	padding-top: 30px;
+	padding-top: 75px;
 	padding-bottom: 0px;
 	margin-bottom: 0;
 	color: #0F9399;
@@ -19,7 +18,7 @@ ul {
 	text-align: center;
 	padding-left: 0px;
 	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 50px;
 }
 li {
 	display: inline;
@@ -35,6 +34,7 @@ h3 {
 	font-size: 23px;
 	margin-bottom: -3px;
 }
+
 p {
 	margin-left: 20px;
 	margin-right: 20px;
@@ -45,6 +45,8 @@ p {
 .content {
 	text-align: center;
 }
+
+
 a {
 	text-decoration: none;
 	font-family: verdana;
@@ -68,12 +70,12 @@ a:hover {
 }
 .vcd, .obj, .add, .celeste, .small {
 	background: transparent;
-	box-shadow: 5px 5px 13px 7px rgba(51, 51, 51, 0.1);
+	box-shadow: 5px 5px 17px 7px rgba(51, 51, 51, 0.1);
 	border-radius: 2px;
 }
 .celeste:hover, .small:hover {
 
-	box-shadow: 5px 5px 13px 7px rgba(51, 51, 51, .5);
+	box-shadow: 2px 2px 17px 7px rgba(51, 51, 51, .5);
 }
 
 
