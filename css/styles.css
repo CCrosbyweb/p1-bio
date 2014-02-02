@@ -52,6 +52,14 @@ p {
 	text-align: center;
 }
 
+.info {
+	color: white;
+	position: absolute;
+	bottom: 0px;
+	
+	z-index: +1;
+}
+
 
 a {
 	text-decoration: none;
@@ -64,7 +72,7 @@ a {
 }
 
 a:hover {
-	color: #0099FF; 
+	color: #FF0044; 
 }
 
 .footer a {
@@ -83,7 +91,7 @@ a:hover {
 
 	box-shadow: 4px 4px 9px 1px rgba(51, 51, 51, .5);
 }
-
+;
 
 
 
